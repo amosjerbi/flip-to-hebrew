@@ -19,3 +19,6 @@ Open the zip, double click on the automator package (flipToHebrew.workflow) and 
 In order to assign a shortcut open the keyboard settings pane and choose shortcuts, choose Services on the left menu and under Text service on the right choose flipToHebrew and assign it a shortcut of your choice.
 
 ![alt text](https://github.com/israelio/flip-to-hebrew/raw/master/doc/shortcut.png "assigna  shortcut")
+
+Be sure to check Apples keyboard codes if you use different keyboard shortcut to change language:
+https://eastmanreference.com/complete-list-of-applescript-key-codes
